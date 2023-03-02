@@ -8,7 +8,7 @@
 ## Overview
 
 
-   Given a figma design I had to code it up using the knowledge that had been shared with me in the course. And endevoured to do my best the site is fully responsive on all screen sizes including the navigation
+   Given a figma design I had to code it up using the knowledge that had been shared with me in the course. And I endevoured to do my best the whole site is fully responsive on all screen sizes.
 
 
 
